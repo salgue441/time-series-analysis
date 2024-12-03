@@ -1,4 +1,4 @@
-# 📊 Advanced Time Series Forecasting Toolkit
+# 📊 Time Series Forecasting Models
 
 ## 🌟 Project Overview
 
