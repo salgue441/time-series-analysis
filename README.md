@@ -15,7 +15,7 @@ This project provides a comprehensive toolkit for advanced time series forecasti
 ## 📦 Installation
 
 ```bash
-git clone
+git clone https://github.com/salgue441/time-series-analysis.git
 
 python -m venv venv
 source venv/bin/activate
