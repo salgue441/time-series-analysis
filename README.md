@@ -31,6 +31,12 @@ pip install -r requirements.txt
 - Parallel processing for computational efficiency
 - AIC (Akaike Information Criterion) for model selection
 
+### LSTM Model
+
+- Long Short-Term Memory (LSTM) architecture
+- Hyperparameter tuning with RandomizedSearchCV
+- Early stopping to prevent overfitting
+
 ### Performance Metrics
 
 - Mean Squared Error (MSE)
